@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi0842&label=Profile%20views&color=0e75b6&style=flat" alt="abhi0842" /> </p>
 
-- 🔭 I’m currently working on **News App**
+- 🔭 I’m currently working on **Object Detection App **
 
-- 🌱 I’m currently learning **Data structure and algorithm, Android development**
+- 🌱 I’m currently learning **Data structure and algorithm, Android development, Spring, Docker**
 
 - 🤝 I’m looking for help with **Open source contribution**
 
