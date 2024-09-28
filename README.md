@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi0842&label=Profile%20views&color=0e75b6&style=flat" alt="abhi0842" /> </p>
 
-- 🔭 I’m currently working on **Object Detection App **
+- 🔭 I’m currently working on **Travel Mates**
 
-- 🌱 I’m currently learning **Data structure and algorithm, Android development, Spring, Docker**
+- 🌱 I’m currently learning **Data structure and algorithm, Spring Boot, React, Javascript, Android development, Spring, Docker, Git, GitHub**
 
 - 🤝 I’m looking for help with **Open source contribution**
 
 - 📫 How to reach me **007abhinavchaudhary@gmail.com**
 
-- ⚡ Fun fact **I am funny😂**
+- ⚡ Fun fact **I am Software Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
